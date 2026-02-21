@@ -21,3 +21,4 @@ venv/
 .venv/
 .idea/
 .vscode/
+.tests/
